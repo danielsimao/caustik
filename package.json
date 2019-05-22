@@ -1,0 +1,14 @@
+{
+  "name": "caustik",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": "https://github.com/danielsimao/caustik.git",
+  "author": "Daniel Simão <rui.daniel.simao@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
